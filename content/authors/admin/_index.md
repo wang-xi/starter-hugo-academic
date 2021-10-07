@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xi Wang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate in Civil Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Michigan
+  url: https://www.umich.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -25,15 +25,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Civil Engineering
+    institution: University of Michigan
+    year: Expected 2022
+  - course: M.S. in Robotics
+    institution: University of Michigan
+    year: Expected 2021
+  - course: M.S.E. in Construction Engineering and Management
+    institution: University of Michigan
+    year: 2018
+  - course: B.E. in Construction Management
+    institution: Dongbei University of Finance and Economics
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,16 +45,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: mailto:wangix@umich.edu
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=nZeO0zEAAAAJ&hl=en
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
@@ -59,9 +62,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
