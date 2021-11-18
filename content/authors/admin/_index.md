@@ -14,13 +14,15 @@ organizations:
   url: https://www.umich.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include construction robotics, human-infrastructure interaction, and virtual reality.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Human-Robot Interaction
+- Learning from Demonstrations
+- Human-Building Interaction
+- Physiological Sensing
+- Virtual Reality (VR)
 
 # Education to show in About widget
 education:
@@ -50,7 +52,7 @@ social:
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=nZeO0zEAAAAJ&hl=en
 # - icon: github
 #   icon_pack: fab
@@ -64,7 +66,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -72,5 +74,4 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-
+Xi Wang is a Ph.D. Candidate working with professors [Carol Menassa](https://cee.engin.umich.edu/people/menassa-carol-c/) and [Vineet Kamat](https://cee.engin.umich.edu/people/kamat-vineet-r/) at the Department of Civil and Environmental Engineering, University of Michigan. Her research interest is in creating an automated connected interaction among humans, robots, and infrastructure to create a much safer, productive, and comfortable construction and built environment. She is also pursing a Master of Science degree in Robotics at the University of Michigan.

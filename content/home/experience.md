@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 20
 
 title: Experience
 subtitle:
@@ -22,28 +22,55 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Graduate Student Research Assistant
+    company: Unviersity of Michigan
+    company_url: 'https://umich.edu/'
+    company_logo: um-logo
+    location: Michigan, U.S.
+    date_start: '2019-01-10'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+        * Interactive and Immersive Digital Twin for Human-Robot Collaborative Construction
+        * Integrating Building Information Model (BIM) into Construction Robotics
+        * Robot Construction Task Learning from Demonstration
+        * Human-Centric Indoor Monitoring and Control
+  
+  - title: Graduate Student Instructor
+    company: Unviersity of Michigan
+    company_url: 'https://umich.edu/'
+    company_logo: um-logo
+    location: Michigan, U.S.
+    date_start: '2021-01-12'
+    date_end: '2021-04-30'
+    description: |2-
+        * Delivered lectures in weekly online lab sessions
+        * Developed and administed lab projects (project delivery , construction cost estimation, dispute resolution, project scheduling, resource planning) and weekly quizzes materials
+        * General Administrations
+
+  
+  - title: Research Assistant
+    company: Unviersity of Michigan
+    company_url: 'https://umich.edu/'
+    company_logo: um-logo
+    location: Michigan, U.S.
+    date_start: '2017-09-01'
+    date_end: '2018-12-20'
+    description: |2-
+        * Human Mental Workload and Performance in Different Indoor Enviornments
+        * Advancing Caregivers' Skills and Comfort Level in Ambulatory Ontology Settings
+        * Promoting Independent Mobility for People with Physical Disabilities with Crowdsourcing Mechanism and SLAM
+        * Life Cycle Assessments for Interdependencies in Community Resilience
+
+  - title: Project Cost Engineering Intern
+    company: Dalian Investment Verification Center
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: dalian
+    location: Dalian, China
+    date_start: '2016-07-01'
+    date_end: '2016-10-17'
+    description: |2-
+      * Tender Document and Budget Auditing for Infrastructure Construction Projects
+      * Instrastructure Construction Funds Utilization Tracking
 
 design:
   columns: '2'
