@@ -32,7 +32,7 @@ education:
     year: Expected 2022
   - course: M.S. in Robotics
     institution: University of Michigan
-    year: Expected 2021
+    year: 2021
   - course: M.S.E. in Construction Engineering and Management
     institution: University of Michigan
     year: 2018
@@ -74,4 +74,4 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Xi Wang is a Ph.D. Candidate working with professors [Carol Menassa](https://cee.engin.umich.edu/people/menassa-carol-c/) and [Vineet Kamat](https://cee.engin.umich.edu/people/kamat-vineet-r/) at the Department of Civil and Environmental Engineering, University of Michigan. Her research interest is in creating an automated connected interaction among humans, robots, and infrastructure to create a much safer, productive, and comfortable construction and built environment. She is also pursing a Master of Science degree in Robotics at the University of Michigan.
+Xi Wang is a Ph.D. Candidate working with professors [Carol Menassa](https://cee.engin.umich.edu/people/menassa-carol-c/) and [Vineet Kamat](https://cee.engin.umich.edu/people/kamat-vineet-r/) at the Department of Civil and Environmental Engineering, University of Michigan. Her research interest is in creating a much safer, productive, and comfortable construction and built environment through an automated connected interaction system among humans, robots, and infrastructure. She is also pursing a Master of Science degree in Robotics at the University of Michigan.

@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 50
 
 title: Course Projects
 subtitle: ''
@@ -50,6 +50,6 @@ design:
   flip_alt_rows: false
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Coming soon
-{{% /callout %}}
+{{% /callout %}} -->
