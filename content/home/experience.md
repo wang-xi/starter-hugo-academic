@@ -22,11 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Assistant Professor
+    company: Texas A&M Univesity
+    company_url: 'https://tamu.edu/'
+    company_logo: tamu-logo
+    location: College Station, TX
+    date_start: '2022-09-01'
+    date_end: ''
+    description: |2-
+        * Multi-Robot Coordination in Construction
+        * Process-Level Construction Process Supervision
+        * Additive Manufacturing for Construction Applications
+
   - title: Graduate Student Research Assistant
     company: Unviersity of Michigan
     company_url: 'https://umich.edu/'
     company_logo: um-logo
-    location: Michigan, U.S.
+    location: Ann Arbor, MI
     date_start: '2019-01-10'
     date_end: ''
     description: |2-
@@ -39,7 +51,7 @@ experience:
     company: Unviersity of Michigan
     company_url: 'https://umich.edu/'
     company_logo: um-logo
-    location: Michigan, U.S.
+    location: Ann Arbor, MI
     date_start: '2021-01-12'
     date_end: '2021-04-30'
     description: |2-
@@ -52,7 +64,7 @@ experience:
     company: Unviersity of Michigan
     company_url: 'https://umich.edu/'
     company_logo: um-logo
-    location: Michigan, U.S.
+    location: Ann Arbor, MI
     date_start: '2017-09-01'
     date_end: '2018-12-20'
     description: |2-
@@ -60,17 +72,6 @@ experience:
         * Advancing Caregivers' Skills and Comfort Level in Ambulatory Ontology Settings
         * Promoting Independent Mobility for People with Physical Disabilities with Crowdsourcing Mechanism and SLAM
         * Life Cycle Assessments for Interdependencies in Community Resilience
-
-  - title: Project Cost Engineering Intern
-    company: Dalian Investment Verification Center
-    company_url: ''
-    company_logo: dalian
-    location: Dalian, China
-    date_start: '2016-07-01'
-    date_end: '2016-10-17'
-    description: |2-
-      * Tender Document and Budget Auditing for Infrastructure Construction Projects
-      * Instrastructure Construction Funds Utilization Tracking
 
 design:
   columns: '2'

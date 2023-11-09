@@ -6,37 +6,36 @@ title: Xi Wang
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Civil Engineering
+role: Assistant Professor in Construction Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Michigan
-  url: https://www.umich.edu/
+- name: Texas A&M University
+  url: https://www.tamu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include construction robotics, human-infrastructure interaction, and virtual reality.
+# bio: My research interests include construction robotics, human-infrastructure interaction, and virtual reality.
 
 # Interests to show in About widget
 interests:
-- Human-Robot Interaction
-- Learning from Demonstrations
-- Human-Building Interaction
-- Physiological Sensing
-- Virtual Reality (VR)
+- Human-robot interaction
+- Multi-robot coordination
+- Process-level digital twin
+- Robot and infrastructure intelligence
 
 # Education to show in About widget
 education:
   courses:
   - course: Ph.D. in Civil Engineering
     institution: University of Michigan
-    year: Expected 2022
+    year: 2022
   - course: M.S. in Robotics
     institution: University of Michigan
-    year: 2021
+    year: 2022
   - course: M.S.E. in Construction Engineering and Management
     institution: University of Michigan
     year: 2018
-  - course: B.E. in Construction Management
+  - course: B.S. in Construction Management
     institution: Dongbei University of Finance and Economics
     year: 2017
 
@@ -47,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:wangix@umich.edu
+  link: mailto:xiwang@tamu.edu
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -74,4 +73,4 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Xi Wang is a Ph.D. Candidate working with professors [Carol Menassa](https://cee.engin.umich.edu/people/menassa-carol-c/) and [Vineet Kamat](https://cee.engin.umich.edu/people/kamat-vineet-r/) at the Department of Civil and Environmental Engineering, University of Michigan. Her research interest is in creating a much safer, productive, and comfortable construction and built environment through an automated connected interaction system among humans, robots, and infrastructure. She is also pursing a Master of Science degree in Robotics at the University of Michigan.
+I am an Assistant Professor in the Department of Construction Science at Texas A&M University ([Profile](https://www.arch.tamu.edu/staff/xi-wang/)). My research focuses on the intersection of robotics, humans, and infrastructure to create a much safer, productive, and comfortable construction and built environment. My research interests include human-robot interaction, multi-robot coordination, robot and infrastructure intelligence, and human factors interacting with intelligent agents. Before joining Texas A&M, I obtained my Ph.D. in Civil Engineering from the Department of Civil and Environmental Engineering at the University of Michigan, working with professors [Carol Menassa](https://cee.engin.umich.edu/people/menassa-carol-c/) and [Vineet Kamat](https://cee.engin.umich.edu/people/kamat-vineet-r/). 

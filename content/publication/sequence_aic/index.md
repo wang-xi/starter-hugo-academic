@@ -1,37 +1,38 @@
 ---
-title: "Can infrared facial thermography disclose mental workload in indoor thermal environments?"
+title: "Automatic High-Level Motion Sequencing Methods for Enabling Multi-Tasking Construction Robots"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Xi Wang
-- Da Li
+- Shuoqi Wang
 - Carol C. Menassa
 - Vineet R. Kamat
+- Wes McGee
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2019-11-13T00:00:00Z"
-doi: "10.1145/3363459"
+date: "2023-09-02T00:00:00Z"
+doi: "https://doi.org/10.1016/j.autcon.2023.105071"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-11-13T00:00:00Z"
+publishDate: "2023-09-02T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *1st ACM International Workshop on Urban Building Energy Sensing, Controls, Big Data Analysis, and Visualization*
+publication: In *Automation in Construction*
 # publication_short: In *ICW*
 
-abstract: Mental workload represents the mental resources an individual devotes to a task. In a building environment, understanding how ambient thermal conditions affect occupants' mental workload offers an opportunity to achieve optimal thermal settings for the heating, ventilation, and air conditioning (HVAC) systems. However, directly measuring mental workload on a large and continuous scale requires occupants to perform subjective tests or wear electroencephalogram (EEG) or similar devices, which is impractical. This paper assesses the feasibility of using infrared facial thermography captured by a low-cost thermal camera to disclose mental workload. An experiment was conducted to measure the facial skin temperature while subjects performed cognitive tasks in three different thermal environments, representing occupants' thermal sensation of slightly cool, neutral, and slightly warm. Mental workload was measured using an EEG headset to eliminate subjective bias. The correlations between facial temperature and mental workload vary with different individuals and thermal conditions. Relatively strong correlations are found in the neutral environment and in the regions of ears, mouth, and neck. The results also suggest that future work should collect data under extended experiment duration. This is because it was observed that the response of facial skin temperature to mental workload varies with task type; thus, increasing the repetitiveness for each type of task or using more challenging tasks in the experiment could potentially lead to more insights on this relationship.
+abstract: Robots are expected to play an important role in future construction work. However, they are not yet widely adopted by the industry because it is difficult and expensive to program robots to conduct a variety of construction tasks. This paper presents a method for intuitively and flexibly teaching robots to perform various construction tasks through demonstrations. Robots are first programmed with basic skill primitives and then learn the sequencing of these primitive skills to perform different types of construction work under the guidance of human supervisors. The construction workflow and the interaction processes are enabled by a process-level digital twin system. Case studies with three assembly scenarios and a wooden frame construction experiment are used to present and verify the proposed method. The proposed approach enables automatic robot motion sequencing abilities through Learning from Demonstration and has the potential to enable the widespread adoption of robots on construction sites..
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -53,7 +54,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/ZODsW_AfQa4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
