@@ -58,7 +58,7 @@ social:
 #   link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/xi-wang-umich/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -73,4 +73,4 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an Assistant Professor in the Department of Construction Science at Texas A&M University ([Profile](https://www.arch.tamu.edu/staff/xi-wang/)). My research focuses on the intersection of robotics, humans, and infrastructure to create a much safer, productive, and comfortable construction and built environment. My research interests include human-robot interaction, multi-robot coordination, robot and infrastructure intelligence, and human factors interacting with intelligent agents. Before joining Texas A&M, I obtained my Ph.D. in Civil Engineering from the Department of Civil and Environmental Engineering at the University of Michigan, working with professors [Carol Menassa](https://cee.engin.umich.edu/people/menassa-carol-c/) and [Vineet Kamat](https://cee.engin.umich.edu/people/kamat-vineet-r/). 
+ Xi is an Assistant Professor in the Department of Construction Science at Texas A&M University ([Profile](https://www.arch.tamu.edu/staff/xi-wang/)). Her research focuses on the intersection of robotics, humans, and infrastructure to create a much safer, productive, and comfortable construction and built environment. Xi's research interests include human-robot interaction, multi-robot coordination, robot and infrastructure intelligence, and human factors interacting with intelligent agents. Before joining Texas A&M, Xi obtained my Ph.D. in Civil Engineering from the Department of Civil and Environmental Engineering at the University of Michigan, working with professors [Carol Menassa](https://cee.engin.umich.edu/people/menassa-carol-c/) and [Vineet Kamat](https://cee.engin.umich.edu/people/kamat-vineet-r/). 

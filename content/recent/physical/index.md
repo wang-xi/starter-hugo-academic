@@ -1,8 +1,8 @@
 ---
-title: Real-time Control of KUKA Robotic Arm
-summary: Connection between Robot Operating System (ROS) and KUKA KR120 Industrial Robotic Arm
+title: BIM-Driven Human-Robot Collaborative Construction
+summary: A digital twin system integrate human interactions, BIM, ROS, and physical robot for human-robot collaborative construction work.
 tags:
-date: "2021-11-30T00:00:00Z"
+date: "2023-11-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -19,7 +19,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: https://youtu.be/fT-neYxhWJc
+url_video: https://youtu.be/e4V-hEE-6Tw
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -28,6 +28,5 @@ url_video: https://youtu.be/fT-neYxhWJc
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-I am exploring using Robot Operating System (ROS) to implement real-time control of KUKA KR120 industrial robotic arm to perform construction work in collaboration with human worker. This is a preliminary test video of the robot real-time programming. Videos that related to construction work will come later.
 
-{{<youtube fT-neYxhWJc>}}
+{{<youtube e4V-hEE-6Tw>}}
